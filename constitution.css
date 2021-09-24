@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com/css?family=Trirong');
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+body
+{
+    background-color: aqua;
+}
+h1
+{
+    text-align: center;
+    border: 3px solid red;
+    font-family: "Sofia", sans-serif;
+    font-size:xx-large;
+    color:royalblue;
+
+}
+
+#preambletext
+{
+    font-family: 'Bonheur Royale', cursive;
+    font-size: x-large;
+    text-align: left;
+    font-weight: bolder;
+    margin: 55px;
+}
+
+h2
+{
+    font-family: "Trirong", serif;
+    font-size:x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h3
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-align: center;
+    
+}
+
+
+p
+{
+    text-indent: 50px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 200%;
+    margin: 25px;
+
+
+}
+
+#preambleRecap
+{
+    color:purple;
+}
+
+#article1text
+{
+    color:purple;
+}
+
+#article2text
+{
+    color:purple;
+}
+
+#article3text
+{
+    color:purple;
+}
+
+#article4text
+{
+    color:purple;
+}
+
+#article5text
+{
+    color:purple;
+}
+
+#article6text
+{
+    color:purple;
+}
+
+#article7text
+{
+    color:purple;
+}
+
+#amen1text
+{
+    color:purple;
+}
+
+#amen2text
+{
+    color:purple;
+}
+
+#amen3text
+{
+    color:purple;
+}
+
+#amen4text
+{
+    color:purple;
+}
+
+#amen5text
+{
+    color:purple;
+}
+
+#amen6text
+{
+    color:purple;
+}
+
+#amen7text
+{
+    color:purple;
+}
+
+#amen8text
+{
+    color:purple;
+}
+
+#amen9text
+{
+    color:purple;
+}
+
+#amen10text
+{
+    color:purple;
+}
